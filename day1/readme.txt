@@ -1,1 +1,1 @@
-You do not need any external/built in python modules to run this code.
+You do not need any external/built in python modules to run my Day 1 solution.
