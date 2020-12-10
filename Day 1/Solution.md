@@ -1,5 +1,5 @@
 ```python
-with open('aoc1.txt') as data:
+with open('input.txt') as data:
         x=data.read().split('\n')
 couples=[]
 #Part 1
