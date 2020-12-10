@@ -1,5 +1,5 @@
 ```python
-with open('aoc2.txt','r') as a:
+with open('input.txt') as a:
     data=a.readlines()
 count=0
 #Part 1
